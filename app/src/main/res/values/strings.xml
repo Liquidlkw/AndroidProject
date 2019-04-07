@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">BusStationOutdoorFacilitiesMS</string>
+    <string name="login_">验证码登陆</string>
+    <string name="phone">请输入手机号码</string>
+    <string name="number">输入手机号</string>
+    <string name="cancel">取消</string>
+    <string name="register">新用户注册</string>
+    <string name="agree">点击“下一步”按钮表示同意</string>
+    <string name="agreement">隐私条款</string>
+    <string name="service">服务协议</string>
+    <string name="next">下一步</string>
+    <string name="title_activity_register_finish">Register_finishActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string-array name="equipment_status">
+        <item>正常</item>
+        <item>异常</item>
+    </string-array>
+
+    <string-array name="bus_station">
+        <item>茶汤桥</item>
+        <item>湖州街沈半路口</item>
+        <item>七古登</item>
+    </string-array>
+
+    <string-array name="brand">
+        <item>哇哈哈</item>
+        <item>农夫山泉</item>
+    </string-array>
+
+    <string-array name="staff">
+        <item>无</item>
+        <item>子账户1</item>
+        <item>子账户2</item>
+    </string-array>
+
+    <string-array name="direction">
+        <item>南向北</item>
+        <item>北向南</item>
+    </string-array>
+
+    <string-array name="id">
+        <item>s001</item>
+        <item>s002</item>
+        <item>s003</item>
+        <item>s004</item>
+        <item>s005</item>
+        <item>s006</item>
+    </string-array>
+
+    <string-array name="sort">
+        <item>灯具监测</item>
+        <item>广告监测</item>
+        <item>站牌监测</item>
+    </string-array>
+
+
+
+</resources>

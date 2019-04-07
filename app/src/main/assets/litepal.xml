@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="Message"></dbname>
+    <version value="1"></version>
+    <list>
+    <mapping class="com.example.liquid.busstationoutdoorfacilitiesms.db.MessageDB"/>
+        <mapping class="com.example.liquid.busstationoutdoorfacilitiesms.db.LightTestDB"/>
+        <mapping class="com.example.liquid.busstationoutdoorfacilitiesms.db.StationDB"/>
+        <mapping class="com.example.liquid.busstationoutdoorfacilitiesms.db.AdDB"/>
+    </list>
+</litepal>

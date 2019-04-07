@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         AdTestList.add( new AdDB("A001","茶汤桥","正常",53,"是","每小时更新一次广告") );
         AdTestList.add( new AdDB("A002","茶汤桥","正常",100,"是","每小时更新一次广告") );
-        AdTestList.add( new AdDB("A003","七古登","正常",69,"是","每小时更新一次广告") );
+        AdTestList.add( new AdDB("A003","七古登","异常",69,"是","每小时更新一次广告") );
         AdTestList.add( new AdDB("A004","茶汤桥","异常",12,"是","每小时更新一次广告") );
         AdTestList.add( new AdDB("A005","茶汤桥","正常",85,"是","每小时更新一次广告") );
         AdTestList.add( new AdDB("A006","茶汤桥","正常",85,"是","每小时更新一次广告") );
